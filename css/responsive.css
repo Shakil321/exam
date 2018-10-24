@@ -1,0 +1,22 @@
+@media(max-width: 767px){
+	.banner-content h1 {
+    font-size: 30px;}
+    .about-content{text-align: center;}
+    .input-text {
+    width: 100%;
+    margin-bottom: 25px;}
+    .input-text2 {
+    width: 100%;
+    margin-bottom: 0px;}
+    .message {
+    width: 100%;}
+
+
+}
+
+@media(max-width: 991px){
+	.service{margin-bottom: 70px;}
+	.service h2{margin-top: 20px;}
+	.team-content{margin-bottom: 50px;}
+	.skill{margin-bottom: 50px;}
+}
